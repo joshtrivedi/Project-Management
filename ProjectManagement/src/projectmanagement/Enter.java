@@ -177,6 +177,5 @@ public class Enter extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JPanel jPanel1;
-    // End of variables declaration//GEN-END:variables
 
 }
