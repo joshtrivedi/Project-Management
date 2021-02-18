@@ -25,8 +25,8 @@ public class LoginForm extends javax.swing.JFrame {
      */
     public LoginForm() {
         initComponents();
-        lbl_U.setVisible(false);
         lbl_p.setVisible(false);
+        lbl_U.setVisible(false);
     }
 
     /**
@@ -242,5 +242,4 @@ public class LoginForm extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField_Username;
     private javax.swing.JLabel lbl_U;
     private javax.swing.JLabel lbl_p;
-    // End of variables declaration//GEN-END:variables
 }
